@@ -11,3 +11,4 @@ sudo systemctl enable greenlight-auto-deployer.service
 sudo systemctl enable greenlight-auto-deployer.timer
 sudo systemctl start greenlight-auto-deployer.timer
 ```
+test

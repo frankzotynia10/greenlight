@@ -1,9 +1,9 @@
 # Greenlight
 
-![Travis CI](https://travis-ci.org/bigbluebutton/greenlight.svg?branch=master)
+![Travis CI](https://travis-ci.org/frankzotynia10/greenlight.svg?branch=custom-changes)
 ![Coverage
-!Status](https://coveralls.io/repos/github/bigbluebutton/greenlight/badge.svg?branch=master)
-![Docker Pulls](https://img.shields.io/docker/pulls/bigbluebutton/greenlight.svg)
+!Status](https://coveralls.io/repos/github/frankzotynia10/greenlight/badge.svg?branch=custom-changes)
+![Docker Pulls](https://img.shields.io/docker/pulls/avntech/greenlight.svg)
 
 Greenlight is a simple front-end interface for your BigBlueButton server. At it's heart, Greenlight provides a minimalistic web-based application that allows users to:
 

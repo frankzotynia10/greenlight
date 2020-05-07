@@ -17,6 +17,7 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 require 'simplecov'
 require 'coveralls'
+Coveralls.wear!('rails')
 SimpleCov.formatter = Coveralls::SimpleCov::Formatter
 SimpleCov.start do
   add_filter 'lib/bbb_api.rb'

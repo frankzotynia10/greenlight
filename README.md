@@ -1,7 +1,7 @@
 # Greenlight
 
 ![Travis CI](https://travis-ci.org/frankzotynia10/greenlight.svg?branch=custom-changes)
-![Coverage Status](https://coveralls.io/repos/github/frankzotynia10/greenlight/badge.svg?branch=custom-changes)
+[![Coverage Status](https://coveralls.io/repos/github/frankzotynia10/greenlight/badge.svg?branch=custom-changes)](https://coveralls.io/github/frankzotynia10/greenlight?branch=custom-changes)
 ![Docker Pulls](https://img.shields.io/docker/pulls/avntech/greenlight.svg)
 ![Inch CI](http://inch-ci.org/github/frankzotynia10/greenlight.svg?branch=custom-changes)
 

@@ -48,3 +48,4 @@ coverage*
 /atom-sftp-sync.json
 ..env.swp
 app/views/main/.index.html.erb.swp
+reload.sh

@@ -246,7 +246,7 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by frank's tears.
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -276,8 +276,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is the portal to your web conference. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to FRANK'S DOOM ROOM.
+    about: "Removed href -- This shit is the portal to your web conference. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to Frank's Safe Space
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
